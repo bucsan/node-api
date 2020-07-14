@@ -24,7 +24,7 @@ _ps: Se precisar de ajuda para fazer um clone, esse [tutorial aqui](https://help
 1. Abra o terminal do seu computador. Se estiver no Windows pode ser o CMD ou Powershell.
 2. Altere o diretório de trabalho atual para o local em que deseja ter o código do módulo salvo no seu computador.
 3. Faça um clone desse repositório rodando: <br> `git clone https://github.com/bucsan/node-api.git`;
-4. Requisitos: `[NodeJs](https://nodejs.org/en/download/ "NodeJs"), [Docker](https://docs.docker.com/docker-for-windows/install/ "Docker")` instalados;
+4. Requisitos: [NodeJs](https://nodejs.org/en/download/ "NodeJs"), [Docker](https://docs.docker.com/docker-for-windows/install/ "Docker") instalados;
 5. Entre na pasta rodando pelo terminal: `cd node-api`;
 6. Rode `npm install` para instalar as dependências do projeto;
 7. Rode `npm run dev` para iniciar o servidor de desenvolvimento.
